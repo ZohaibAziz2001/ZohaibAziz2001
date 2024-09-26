@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zohaib Aziz</h1>
 <h3 align="center">A passionate cybersecurity student</h3>
 
-- 🌱 I’m currently learning **Splunk, Event Logging**
+- 🌱 I’m currently learning **Advanced Computer Security, OSINT Scraping tor sites, SIEM Indexing**
 
 - 📫 How to reach me **zohaibaaziz01@gmail.com**
 
